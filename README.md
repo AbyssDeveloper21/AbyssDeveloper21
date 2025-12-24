@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Eric Penn
 
-🐍 **Senior Full Stack Developer**  
+**Senior Full Stack Developer**  
 📧 **Email:** [ericpenn.dev@gmail.com](mailto:ericpenn.dev@gmail.com)
 
 ---
