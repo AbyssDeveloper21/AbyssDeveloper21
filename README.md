@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Eric Penn
 
-🐍 **Senior Python Developer | Full-Stack MERN Developer**  
+🐍 **Senior Full Stack Developer**  
 📧 **Email:** [ericpenn.dev@gmail.com](mailto:ericpenn.dev@gmail.com)
 
 ---
 
 ## 🧠 About Me
 
-I’m a **Senior Python Developer and Full-Stack MERN Engineer** with strong experience in designing, developing, and maintaining **scalable backend systems** and **modern web applications**.
+I’m a **Senior Full Stack Developer** with strong experience in designing, developing, and maintaining **scalable backend systems** and **modern web applications**.
 
 I focus on:
 - Writing clean, maintainable, and production-ready Python code  
